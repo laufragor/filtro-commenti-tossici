@@ -1,5 +1,5 @@
-# filtro-commenti-tossici
-Usando `tensorflow`, costruire un modello in grado di filtrare i commenti degli utenti in base al grado di dannosità del linguaggio
+# Filtro commenti tossici
+Usando `tensorflow`, creare un modello in grado di filtrare i commenti degli utenti in base al grado di dannosità del linguaggio
 
 ## Descrizione
 Viene fornito un dataset di commenti classificati in base a sei distinte categorie di tossicità:
